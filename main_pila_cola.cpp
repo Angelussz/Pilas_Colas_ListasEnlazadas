@@ -1,3 +1,4 @@
+//https://ronnyml.wordpress.com/2009/07/04/listas-enlazadas-clase-lista-en-c/
 #include <iostream>
 #include "lista_pila.h"
 using namespace std;
